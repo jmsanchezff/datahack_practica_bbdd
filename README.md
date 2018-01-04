@@ -2,7 +2,7 @@
 
 Las practicas de este modulo presentan la resolución de dos grupos de ejercicios:
 
-- Grupo 1: resolución de los ejercicios de la presentación expuesta en clase. Esta información se puede encontrar en: ./ejercicios_sql
+- Grupo 1: resolución de los ejercicios de la presentación expuesta en clase. Esta información no se ha subido a este repositorio...
 
 - Grupo 2: resolución de un caso de uso cuyo enunciado es:
 
